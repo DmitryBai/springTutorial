@@ -1,0 +1,17 @@
+GET http://localhost:8080/api/students/
+Accept: application/json
+
+###
+
+GET http://localhost:8080/api/students/1
+Accept: application/json
+
+### 404
+
+GET http://localhost:8080/api/students/999
+Accept: application/json
+
+###
+
+GET http://localhost:8080/api/students/das
+Accept: application/json

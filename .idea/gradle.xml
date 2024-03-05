@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/core" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/crud" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/crud" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/crud-spring-jpa" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/crud-spring-jpa" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/crud-spring-restdata" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/crud-spring-restdata" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/data" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/data" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/jpa-advanced-mappings" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/jpa-advanced-mappings" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/rest" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/rest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
